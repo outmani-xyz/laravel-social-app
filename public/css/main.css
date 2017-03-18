@@ -1,0 +1,23 @@
+body{
+    background: #e6e8ff;
+}
+.col-flat{
+    margin-top: 30px;
+    background: #fff;
+    border-radius: 5px;
+    padding:30px 5px 5px;
+    box-shadow: 12px 15px 20px 0px rgba(46,61,73,0.15);
+}
+.img-flat{
+    /*background: #fff;*/
+    /*border-radius: 5px;*/
+    box-shadow: 10px 10px 15px -1px rgba(46,61,73,0.15);
+}
+
+    .row-flat{
+        padding: 10px 5px;
+        margin : 40px auto;
+        box-shadow: 12px 15px 20px 0px rgba(46,61,73,0.15);
+        background: #fff;
+        border-radius: 5px;
+    }
